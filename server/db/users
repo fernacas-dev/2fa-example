@@ -1,8 +1,1 @@
-{
-  "header": {
-    "$created": "2022-01-08T19:34:09.061Z",
-    "$updated": "2022-01-15T13:27:50.413Z",
-    "lcid": 4
-  },
-  "items": []
-}
+{"header":{"$created":"2022-01-08T19:34:09.061Z","$updated":"2022-07-01T02:56:21.648Z","lcid":5},"items":[{"email":"admin@gmail.com","password":"$2a$10$oMMeyiX.Z67D0Ldi3qLRDOQ.1O1y9NOcRnLRPGC6FDD6fPTZbcQTy","twoFactorEnabled":true,"twoFactorSecret":"","cid":5,"$created":"2022-07-01T02:33:16.042Z","$updated":"2022-07-01T02:56:21.648Z","secret":"JMYUQ7LZEYZXQ2DLFZIUUN3JNU4HSPSIHR5TEPCOJRLDSZ23LAUQ"}]}
